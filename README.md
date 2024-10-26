@@ -10,6 +10,6 @@
 ![This is an alt text.](assets/result/mobile_8.jpg "This is a sample image.")
 
 ## Images result for dekstop website
-![This is an alt text.](assets/result/dekstop_1.jpg "This is a sample image.")
-![This is an alt text.](assets/result/dekstop_2.jpg "This is a sample image.")
-![This is an alt text.](assets/result/dekstop_3.jpg "This is a sample image.")
+![This is an alt text.](assets/result/dekstop_1.png "This is a sample image.")
+![This is an alt text.](assets/result/dekstop_2.png "This is a sample image.")
+![This is an alt text.](assets/result/dekstop_3.png "This is a sample image.")
